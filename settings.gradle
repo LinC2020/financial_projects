@@ -1,2 +1,5 @@
 rootProject.name='Bawei6'
 include ':app'
+include ':core'
+include ':userccenter'
+include ':common'
